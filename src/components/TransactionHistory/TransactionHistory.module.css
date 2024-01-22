@@ -1,0 +1,23 @@
+.transactionHistory {
+    table-layout: fixed;
+    width: 375px;
+    border-collapse: collapse;
+    /* border: 2px solid rgba(0, 0, 0, 0.381); */
+  }
+  
+  td,
+  th {
+    border: 1px solid rgb(0, 0, 0);
+  }
+  
+  .row {
+    color: black;
+  }
+  
+  .row:nth-child(2n + 1) {
+    background-color: #fff;
+  }
+  
+  .row:nth-child(2n + 2) {
+    background-color: #d2d0d0;
+  }
