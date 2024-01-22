@@ -1,7 +1,7 @@
 .feedback {
-  align-self: flex-start;
+  align-self: center;
   padding: 20px;
-  border: 2px solid orange;
+  border: 2px solid #A52A2A;
   border-radius: 8px;
 }
 
